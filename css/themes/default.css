@@ -3,13 +3,13 @@
 html {
 	font-size: 100%;
 	line-height: 1.5rem;
-	background-color: #FCFCFC;
+	background-color: #FFF;
 	color: #242424;
 }
 
 body {
 	font-size: 1rem;
-	font-family: "Open Sans";
+	font-family: 'Source Sans Pro', sans-serif;
 	font-style: normal;
 	font-weight: 400;
 }
@@ -20,7 +20,7 @@ body {
 
 .ft-page {
 	padding: 2rem;
-	background-color: #FCFCFC;
+	background-color: #FFF;
 }
 
 .flowtime h1,
@@ -51,7 +51,7 @@ body {
 .flowtime h4,
 .flowtime h5,
 .flowtime h6 {
-	font-family: "Open Sans";
+	font-family: 'Source Sans Pro', sans-serif;
 	font-style: normal;
 	font-weight: 400;
 	color: #242424;
@@ -161,7 +161,7 @@ body {
 }
 
 .flowtime strong {
-	font-family: "Open Sans";
+	font-family: 'Source Sans Pro', sans-serif;
 	font-weight: 600;
 	font-style: normal;
 	color: #242424;
